@@ -1,0 +1,21 @@
+{
+  "name": "FieldSync",
+  "short_name": "FieldSync",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/N0Dfx7pC/Your-paragraph-text.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/N0Dfx7pC/Your-paragraph-text.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
