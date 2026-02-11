@@ -50,7 +50,7 @@ export default function LoginPage() {
     setIsLoading(true)
 
     try {
-      const apiUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000"
+      const apiUrl = 'https://fieldsyncer.vercel.app'
       const response = await fetch(`${apiUrl}/api/auth/login`, {
         method: "POST",
         headers: {
